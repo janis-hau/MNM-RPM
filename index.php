@@ -46,7 +46,7 @@ function loaderRPM($loadText)
         <div class="rpm__glass"></div>
     </div>
 
-    <audio id="engine-sound" src="motor_engine.wav" loop></audio>
+    <audio id="engine-sound" src="assets/audio/motor_engine.wav" loop></audio>
 
     <script><?php require_once 'assets/js/rpm.js' ?></script>
 
